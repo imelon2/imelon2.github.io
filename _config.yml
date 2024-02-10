@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: 최원혁
+title: 블록체인 엔지니어
+email: imelon279@gmail.com
+website: https://github.com/imelon2
 
 # Dark Mode (true/false/never)
 darkmode: false
